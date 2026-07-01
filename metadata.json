@@ -1,0 +1,6 @@
+{
+  "name": "BlackholeOS",
+  "description": "A modern, lightweight, and space-themed web operating system containing a full Sandbox Browser, File Manager, Security Compliance Hub, Optimisme Suite, and interactive Support Phone.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
